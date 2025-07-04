@@ -1,0 +1,7 @@
+2025-07-03 17:11:02,927 - INFO - Started worker thread 1
+2025-07-03 17:11:02,928 - INFO - Started worker thread 2
+2025-07-03 17:11:02,930 - INFO - Started worker thread 3
+2025-07-03 17:11:38,055 - INFO - New message received, adding to queue (update_id: 466379154)
+2025-07-03 17:11:38,058 - INFO - Processing text message: Hello, remember me?...
+2025-07-03 17:12:38,569 - ERROR - Error processing message: The read operation timed out
+2025-07-03 17:12:41,336 - INFO - HTTP Request: POST https://api.telegram.org/bot8094075847:AAFUuaPGiLveaJwqSEuHTRYGriW_AIUhMDs/sendMessage "HTTP/1.1 200 OK"
